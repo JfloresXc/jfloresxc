@@ -5,7 +5,7 @@
 
 ### Full-stack Web Developer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/jfloresxc/jfloresxc/main/ponencia-fvb.JPG)
+![https://github.com/mouredev](https://raw.githubusercontent.com/jfloresxc/jfloresxc/main/banner-portada.png)
 
 ![GitHub Followers](https://img.shields.io/github/followers/jfloresxc?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/jfloresxc?style=social)
