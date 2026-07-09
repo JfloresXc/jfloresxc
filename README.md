@@ -3,7 +3,7 @@
   Hola, soy Jose Flores 👋
 </h1>
 
-### Full-stack Web Developer
+### Senior Front-End Developer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/jfloresxc/jfloresxc/main/banner-portada.png)
 
