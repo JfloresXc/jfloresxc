@@ -1,6 +1,6 @@
 <h1 flex="center">
   <img width="30" src="https://raw.githubusercontent.com/jfloresxc/jfloresxc/main/perfil-sinfondo.png">
-  Hola, mi nombre es Jose Flores 👋
+  Hola, soy Jose Flores 👋
 </h1>
 
 ### Full-stack Web Developer
@@ -10,11 +10,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/jfloresxc?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/jfloresxc?style=social)
 
-Soy ingeniero de Sistemas. En el mundo del desarrollo web soy conocido como JfloresXc, debido a un apodo gamer en mi adolescencia. 
-
-Inicié mi carrera como desarrollador web en el año 2019. Para mí aprender a programar era más un deber debido a los mitos universitarios. Dentro de esta fui parte de Comutec, una comunidad en la cuál descubrí que debo utilizar más la lógica y la creatividad para tener grandes resultados. 
-
-Hoy en día, luego de 4 años, es una satisfaciente que me dirigió a impulsar proyectos tanto personales como laborales. Además junto a la IEEE Students Society Untels brindar ponencias, dar cursos, compartir tips para iniciantes como amigos y mucho más.
+Front-End Developer con más de 5 años de experiencia liderando el desarrollo de aplicaciones
+empresariales. Instructor del curso "Angular AI Expert" en Mitocode y Organizer Google
+Developer Group Open. Speaker técnico con 10+ conferencias en 2026. Es
 
 
 ## Tecnologías:
